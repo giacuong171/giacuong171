@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on Software development.
 - 📫 How to reach me: giacuong171@gmail.com
-- ⚡ Fun fact: Everyone is a frog at the bottom of a well, but the size of the wellhead is different, and the willingness and ability to widen the wellhead are different.
+- ⚡ Quote: Everyone is a frog at the bottom of a well, but the size of the wellhead is different, and the willingness and ability to widen the wellhead are different.
 <!--
 **giacuong171/giacuong171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
