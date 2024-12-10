@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @CuongPham
-- 🌱 I’m currently learning Rust.
-- 👯 I’m looking to collaborate on Software development, AI engineer and data engineer.
+- 👯 I’m looking to collaborate on Software development, AI engineering, and data engineering.
 - 📫 How to reach me: giacuong171@gmail.com
 - ⚡ Quote: Everyone is a frog at the bottom of a well, but the size of the wellhead is different, and the willingness and ability to widen the wellhead are different.
 <!--
